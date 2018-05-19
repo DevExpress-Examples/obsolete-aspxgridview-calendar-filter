@@ -1,0 +1,16 @@
+﻿.MyHeaderFilter {
+    vertical-align: middle;
+    background-color: transparent;
+    background-image: url("sprite.png");
+    background-repeat: no-repeat;
+    background-position: 0 -113px;
+    height: 15px;
+    width: 15px;
+    display: inline-block !important;
+}
+.SortArrow {
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
+
