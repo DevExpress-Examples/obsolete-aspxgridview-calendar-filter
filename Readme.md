@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MyStyles.css](./CS/Content/MyStyles.css)
-* **[Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))**
+* **[Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))**
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # OBSOLETE - ASPxGridView - How to implement a custom HeaderFilter with a calendar for a date column 
